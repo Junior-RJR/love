@@ -21,9 +21,3 @@
 				</ul>
 			</nav>
 		</header>
-		
-Idiomas 
-INGLÊS 
-• Leitura: Avançado | Escrita: Intermediário | Fala: Intermediário
-ESPANHOL 
-• Leitura: Intermediário | Escrita: Básico | Fala: Intermediário
