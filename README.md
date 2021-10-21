@@ -4,11 +4,7 @@
 		<meta charset="UTF-8">
 		<title>My Marrentinha</title>
 
-		<link rel="stylesheet" href="reset.css">
-		<link rel="stylesheet" href="idi.css">
-		<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-   
-    <style>
+	<style>
         body {
             background-color: rgb(139, 228, 228);
             color: black;
